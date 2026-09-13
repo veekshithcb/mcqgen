@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mcqgen
+Version: 0.1.0
+Summary: MCQ Generator using LangChain and OpenAI
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
